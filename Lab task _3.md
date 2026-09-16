@@ -1,6 +1,6 @@
 # Mars Rover Mission Control - Requirements Analysis & Change Management
 
-## 1. Requirement Analysis (From Engineering Notes)
+## 1. Requirement analysis (From Engineering Notes)
 
 ### Functional Requirements (FRs)
 
