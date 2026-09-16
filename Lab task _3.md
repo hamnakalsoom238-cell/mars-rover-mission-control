@@ -52,4 +52,4 @@
 
 **Updated Requirement (NFR-02):** The system shall require authenticated and role-authorized operators before accepting rover commands.
 
-**Impact:** Enhances security from basic identity verification (authentication) to fine-grained access control through Role-Based Access Control (RBAC).
+**Impact:** Enhances security from basic identity verification (authentication) to fine-grained access control through Role-Based Access Control.
