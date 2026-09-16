@@ -10,7 +10,7 @@
 
 **FR-03:** The system shall reject any invalid or unauthorized commands.
 
-**FR-04:** The rover shall automatically enter Safe Mode upon detecting a critical battery or thermal condition.
+**FR-04:** The rover shall automatically enter Safe Mode upon detecting a critical battery .
 
 **FR-05:** The system shall send command execution status updates back to Mission Control.
 
